@@ -1,0 +1,1 @@
+var con = angular.module('domotica', ['domotica.controllers', 'domotica.services', 'domotica.directives', 'domotica.routes']);
